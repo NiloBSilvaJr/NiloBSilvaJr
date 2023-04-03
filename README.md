@@ -1,4 +1,8 @@
-### Hi there 👋
+### Visão Geral
+
+Profissional com perfil analítico, possuindo formação de Técnico em Processamento de Dados, Bacharel em Estatística,  Especialista em Estatística Aplicada com MBA em Tecnologias e Aplicações em Business Intelligence.
+
+Ao longo de minha jornada profissional fui capaz de desenvolver habilidades como trabalho em equipe, comunicação, negociação, flexibilidade, gestão do tempo, entre outras, além de adquirir/aprimorar conhecimentos na área de análise de dados por meio de técnicas estatísticas e uso de ferramentas tais como R, Power BI e Python, sempre dedicado a contribuir com o crescimento das instituições por onde passei.
 
 <!--
 **NiloBSilvaJr/NiloBSilvaJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
